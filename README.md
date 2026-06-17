@@ -1,1 +1,1 @@
-# Password-Checker
+🔍 Ever wondered how secure your password really is? This Password Strength Checker evaluates passwords using essential security criteria such as length, character variety, numbers, and special symbols. Built with Python, Tkinter, and Regex, it provides instant feedback to help users strengthen their credentials. The project highlights the importance of password security and demonstrates how simple validation techniques can improve protection against common cyber threats. Strong passwords start with smart choices—and this tool helps users make them.
